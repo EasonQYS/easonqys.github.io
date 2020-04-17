@@ -1,6 +1,6 @@
 # EasonQYS
 #Github
-#### [Homepage](https://easonqys.github.io/)
+#### [Homepage](https://easonqys.github.io/){:target="_blank"}
 #### [MyBlog](https://easonqys.github.io/myblog)
 
 #Server
