@@ -8,6 +8,6 @@
 #### [Jupyter](http://39.106.220.59:8888/?target=_blank)
 #### [TensorBoard](http://39.106.220.59:6006/?target=_blank)
 #### [Storage](http://39.106.220.59:880/?target=_blank)
-#### [Yuncan](http://39.106.220.59:8889/?target=_blank)
+#### [Yuncan](http://39.106.220.59:8889/yuncan/?target=_blank)
 
 #Others
