@@ -1,2 +1,3 @@
-# easonqys.github.io
-homepage
+# EasonQYS
+#
+#### [visit my blog](/blog)
